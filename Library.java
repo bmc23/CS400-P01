@@ -1,17 +1,10 @@
 import java.util.LinkedList;
 import java.util.NoSuchElementException;
-// --== CS400 File Header Information ==--
-// Name: Maverick Hedlund
-// Email: mjhedlund@wisc.edu
-// Team: CA
-// TA: Yeping Wang
-// Lecturer: Gary Dahl
-// Notes to Grader:
 
 /**
  * Class representing a library inventory
  * 
- * @author Maverick Hedlund
+ * @author Briggs 
  *
  */
 public class Library {
